@@ -1,0 +1,58 @@
+---
+title: "Datenvernetzung in der Rinderzucht"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::knit_hooks$set(hook_convert_odg = rmdhelp::hook_convert_odg)
+```
+
+
+# Vorgeschlagene Fragen
+* Welchen Nutzen zieht Qualitas AG und ihre Partner aus der Vernetzung der Daten und Nutzung der z.B. Applikationen? 
+* Welche Erfahrungen haben sie gemacht? 
+* Wo klappt es schon gut, wo liegen Schwierigkeiten? 
+* Was braucht es damit die Datenvernetzung funktioniert? 
+* Wo stehen Sie, wo soll die Reise hingehen? 
+* Was braucht es für Rahmenbedingungen dafür?
+
+
+# Terminologie
+Als erstes muss geklärt werden, was verstehen wir überhaupt unter dem Begriff **Datenvernetzung**. Im Umfeld der Tierzucht werden Daten vornehmlich als inaktive Zahlenberge wahrgenommen. Als solches können sich diese nicht vernetzen, wie man sich das etwa vom Internet der Dinge vorstellt, wo sich Geräte spontan in einem Netzwerk zusammenschliessen. 
+
+Was aber schon relativ lange besteht sind Netzwerke von Akteuren in der Tierzucht (Landwirte, Organisationen und spezialisierte Firmen), welche Daten über die Netzwerke austauschen, verarbeiten und in geeigneter Form nach aussen präsentieren.
+
+
+# Akteure
+Die Akteure in der Tierzucht sind je nach Tierart etwas unterschiedlich. Am Beispiel der Milchrinderzucht sind folgende Parteien beteiligt
+
+```{r dairy-actors, echo=FALSE, hook_convert_odg=TRUE, fig_path="odg"}
+#rmdhelp::use_odg_graphic(ps_path = "odg/dairy-actors.odg")
+knitr::include_graphics(path = "odg/dairy-actors.png")
+```
+
+
+# Message
+Die Haupt-Message des Vortrags soll sein
+
+> "Datenvernetzung im oben definierten Sinn, gab es schon immer, denn ohne diese ist Tierzucht gar nicht möglich. Was sich ändert sind die verwendeten Technologien. Wird aus der Verwendung der Technologien ein Effizienzgewinn erzeugt, dann werden auch Bereiche erschlossen, welche vorher nicht denkbar waren. "
+
+ 
+# Konkretes Beispiel: Milchrinderzucht
+Wie ein solches Datennetzwerk aussieht, soll am Beispiel der Milchrinderzucht gezeigt werden. Am einfachsten ist es dies anhand des Lebens einer Milchkuh zu zeigen.
+
+ * Station 1: Eine Kuh wird brünstig und belegt. Die Entscheidung, welcher Vater eingesetzt wird kann im Falle einer künstlichen Besamung agrund von Daten, welche der Landwirt von der KBO oder der Zuchtorganisation bezogen hat passieren. 
+ * Station 2: Bei der Geburt des Kalbes gibt es eine Geburtsmeldung des Landwirten an die TVD. Die Geburtsmeldungen werden täglich von der TVD and die Zuchtorganisationen übermittelt
+ * Station 3: Nach der Geburt ist die Kuh in Laktation. Für Kühe von Landwirten, welche Mitglieder einer Zuchtorganisation sind, wird die Milchleistung erhoben. Traditionellerweise kommt der Milchkontrolleur und erfasst die Milchleistung manuell. 
+ * Station 4: Milchprobe wird zu Suisselab geschickt und Resultate kommen zu den Zuchtorganisationen
+ * Station 5: Milchleistung kommt zur Zuchtorganisation
+ * Station 6: Qualitas speichert und verarbeitet die gesammelten Daten in Form von Zuchtwertschätzungen und stellt die gesammelten und die Resultate der Auswertungen in Form von Webapplikationen für die Zuchtorganisationen und deren Kunden dar.
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,109 @@
+---
+title: "Datenvernetzung in der Rinderzucht"
+author: "Peter von Rohr"
+date: "9/25/2019"
+output: 
+  powerpoint_presentation:
+    reference_doc: ppt_qualitas_rmd_16_9.pptx
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::knit_hooks$set(hook_convert_odg = rmdhelp::hook_convert_odg)
+```
+
+
+### Übersicht
+
+- Terminologie
+- Geschichte
+- Aktuelle Datenvernetzung
+- Zukünftige Entwicklung
+
+
+### Terminologie
+
+- Was bedeutet Datenvernetzung?
+- Keine autonome Vernetzung der Daten (bis jetzt) analog zu "Internet of Things (IoT)"
+- Im Kontext der Rinderzucht erscheint die folgende Bedeutung als sinnvoll
+
+> "Daten werden in einem Netzwerk von Akteuren ausgetauscht, verarbeitet und in einer für die Kunden nützlichen Art dargestellt"
+
+
+### Akteure im Datennetzwerk
+
+```{r dairy-actors, echo=FALSE, hook_convert_odg=TRUE, fig_path="odg"}
+#rmdhelp::use_odg_graphic(ps_path = "odg/dairy-actors.odg")
+knitr::include_graphics(path = "odg/dairy-actors.png")
+```
+
+
+### Beispiel: Lebenslauf einer Kuh (1)
+
+- Kuh wird brünstig und wird belegt
+- Stier aufgrund von Zuchtwerten ausgewählt
+- Besamungsdaten von der KBO an Zuchtorganisationen 
+- Managementhilfen in Form von Fruchtbarkeitskennzahlen für Landwirt
+- Zuchtwerte Fruchtbarkeit an Landwirt und KBO
+
+---
+
+```{r cow-in-heat, echo=FALSE, hook_convert_odg=TRUE, fig_path="odg"}
+##rmdhelp::use_odg_graphic(ps_path = "odg/cow-in-heat.odg")
+knitr::include_graphics(path = "odg/cow-in-heat.png")
+```
+
+
+### Lebenslauf einer Kuh (2) 
+
+- Kalb kommt zur Welt
+- Geburt wird bei TVD gemeldet
+- Geburtsmeldungen von der TVD and Zuchtorganisationen 
+- Abstammungsdokumente an Landwirt
+- Zuchtwert Geburtsablauf an Landwirt und KBO
+
+---
+
+```{r calf-birth, echo=FALSE, hook_convert_odg=TRUE, fig_path="odg"}
+#rmdhelp::use_odg_graphic(ps_path = "odg/calf-birth.odg")
+knitr::include_graphics(path = "odg/calf-birth.png")
+```
+
+
+### Lebenslauf einer Kuh (3)
+
+- Kuh in Laktation
+- Milchkontrolle: Milchmenge und Qualität
+- Milchleistungsdaten vom Kontrolleur und von Suisselab an Zuchtorganisationen
+- Leistung und Milchinhaltsstoffe als Managementhilfen an Landwirt
+- Zuchtwerte Qualität, Gesundheit und Produktion an Landwirt und KBO
+
+---
+
+```{r cow-lact, echo=FALSE, hook_convert_odg=TRUE, fig_path="odg"}
+#rmdhelp::use_odg_graphic(ps_path = "odg/cow-lact.odg")
+knitr::include_graphics(path = "odg/cow-lact.png")
+```
+
+
+### Entwicklungen
+
+- Digitalisierung: Ablösung analoger Technologien
+- Ersetzen der manuellen Datenerfassung durch automatisierte Systeme
+- Anpassung von Prozessen bei allen beteiligten Akteuren
+- Beispiel: Automatisierter Tierdatenaustausch
+
+
+### Automatisierter Tierdatenaustausch
+
+```{r atda-schema, echo=FALSE, hook_convert_odg=TRUE, fig_path="odg"}
+#rmdhelp::use_odg_graphic(ps_path = "odg/atda-schema.odg")
+knitr::include_graphics(path = "odg/atda-schema.png")
+```
+ 
+ 
+### The End
+
+Fragen ?
+
+Vielen Dank

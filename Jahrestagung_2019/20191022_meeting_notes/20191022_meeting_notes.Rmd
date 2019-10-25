@@ -1,0 +1,54 @@
+---
+title: "Jahrestagung der Chartagemeinschaft Digitalisierung"
+date: "22.10.2019"
+output: html_notebook
+---
+
+## Einführung 
+Im Juni 2018 wurde die Charta zur Digitalisierung in der Landwirtschaft unterzeichnet. Am 22. Oktober fand nun die erste Jahrestagung der Chartagemeinschaft Digitalisierung am Inforama Rütti in Zollikofen statt. Die Jahrestagung warb im Vorfeld mit einem spannenden Programm, einem Inputreferat unseres Landwirtschaftsministers Guy Parmelin und bot auch die Gelegenheit für "Networking". 
+
+
+## Netzwerkinfrastruktur
+Alexander Lehrmann von Sunrise stellte drei Projekte im Bereich Smart-Farming vor.
+
+1. **Connected cows**: In diesem Projekt tragen Kühe Sensoren, welche sich gemäss dem Paradigma des "Internets der Dinge" (IoT) vernetzen und Daten per 5G in die Cloud übermitteln. Die gesammelten Daten werden verwendet um relevante Ereignisse, wie die Brunst oder Krankheiten zu erkennen. Die Vorteile der Verwendung von 5G sind die breitere Abdeckung, den Einsatz in sehr grossen Herden und die sehr geringen Anforderungen an Harwareinfrastruktur. 
+2. **5G Drohnen** übertragen in Echtzeit 4K-Videos von Feldern zur Beurteilung des Allgemeinzustands von Kulturen. Durch die hohe Auflösung der Videobilder können Schädlinge oder Unkräuter in einem sehr frühen Stadium entdeckt werden.
+3. Bei der **5G AI Unkrauterkennung** fährt ein Spritzroboter mit Kameras über die Felder. Die übertragenen Videos werden in der Cloud ausgewertet. Aufgrund dieser Auswertungen erhält der Roboter in Echtzeit Anweisungen zur Position, wo er Spritzmittel ausbringen muss. 
+
+Alle Versuche werden in Zusammenarbeit mit Partnern aus der Landwirtschaft und mit dem Hardwarehersteller Huawei im Innovation Lab von Sunrise umgesetzt. Herr Lehrmann hat die Anwesenden auch zu einem Besuch der laufenden Versuche eingeladen.
+
+
+## Juristische Beiträge
+Die juristischen Aspekte der Datenvernetzung sind schon im Vorfeld auf grosses Interesse gestossen. Die Gelegenheit der Chartamitglieder mögliche rechtliche Fragen einzureichen wurde rege genutzt. Die Fachleute Ueli Buri, Nathalie Weber und Ursula Uttinger haben in ihren Beiträgen Antworten auf die gestellten Fragen geliefert. Da es sich bei den in der Landwirtschaft gesammelten Daten nur zu einem sehr geringen Teil um Personendaten handelt, fallen diese auch nicht unter den gesetzlichen Begriff des Datenschutzes. Somit sind Daten zu Felder, Kulturen oder Tiere auch nicht sehr stark vom Datenschutz betroffen. Im Gegenzug bietet das Gesetz aber auch keine Hilfsmittel bei Problemen, welche durch die Erfassung und die Weitergabe von Daten auftreten können. 
+
+
+## Vernetzung von Daten in der Landwirtschaft
+In drei Referaten wurden Beispiele von Datenvernetzung aus der Landwirtschaft vorgestellt. Jean-Marc Chappuis hat die Bestrebungen des BLW im Bereich des Datenaustauschs beschrieben. Hierbei handelt es sich vor allem um die über AGIS erfassten Daten für die Direktzahlungen.
+
+Florian Abt von der Swiss Future Farm hat die ersten Erfahrungen der Einführung eines integralen 'Farm Management Information Systems' (FMIS) beschrieben. Trotz des Namens kann über dieses FMIS nur die Aussenwirtschaft vernetzt werden. Die ganze Tierhaltung ist dabei nicht eingeschlossen. Ein zukünftiges Projekt wird es sein, alle Bereiche des Betriebs miteinander zu vernetzen und die relevanten Daten auszutauschen. 
+
+In meinem Vortrag habe ich ein Datennetzwerk aus der Rinderzucht vorgestellt. Eine wichtige Aussage meines Vortrags ist, dass diese Netzwerke schon lange bestehen. Im Zuge der Digitalisierung ändern sich aber die darunter liegenden Prozesse der Datenerhebung und der Übermittlung der Daten. Die neuen Entwicklungen führen zu einer Ablösung der analogen Technologien der manuellen Erfassung und Übertragung per Post durch eine automatisierte Erfassung per Sensoren und eine Datenübermittlung per Internet.
+
+
+## Inputreferat von Bundesrat Guy Parmelin
+Bundesrat Parmelin hat in seiner Rede die Wichtigkeit der technischen Entwicklung für die Landwirtschaft hervorgehoben. In einem sich schnell verändernden Umfeld bleibe den Landwirten nichts anderes übrig als die Entwicklungen mitzumachen und diese nutzbringend und sinnvoll auf ihren Bauernhöfen einzusetzen. Beim bundesrätlichen Besuch war sicher auch die symbolische Unterstützung des Anlasses durch den Agrarminister von grosser Bedeutung. Insbesondere, da am gleichen Tag auch eine Delegation aus China in Bern weilte. Da ist es alles andere als selbstverständlich, dass sich Herr Bundesrat Parmelin nach Zollikofen an die Rüti absetzen konnte.
+
+
+## Diskussionsrunde
+Für die Frage- und Diskussionsrunde wurde die Plattform `slido` verwendet. Im Anschluss an die Referate konnte das Publikum keine Fragen stellen. Allfällige Fragen und Unklarheiten konnten per `slido` erfasst werden. Während der Diskussionsrunde wurden dann die populärsten Fragen diskutiert.
+
+Leider konnte Herr Lehrmann von Sunrise bei der Diskussion nicht mehr dabei sein. Ob das mit dem geplatzen Übernahme-Deal von UPC zu tun hatte, enzieht sich leider meiner Kenntnis. Eine stattliche Anzahl an Fragen wurde zum Thema 5G-Netzwerk, deren Auswirkung auf Mensch und Umwelt gestellt. Herr Lehrmann hat verdankenswerterweise seine Antworten auf die Fragen dem Diskussionsmoderator Adrian Krebs mitgeteilt. So konnte er stellvertretend die Fragen beantworten. Erwartungsgemäss betonte Herr Lehrmann in seinen Antworten die Unbedenklichkeit der 5G-Technologie. Wie schon bei den Vorgängern von 5G stehen aufgrund fehlender Langzeitstudien keine Daten für die Beantwortung allfälliger Bedenken zur Verfügung.
+
+Ein paar Zuhörende waren daran interessiert, weshalb Sunrise mit Huawei zusammenarbeitet. Der Grund für diese Frage liegt in der unklaren Stellung von Huawei zum offiziellen China. Bis zu diesem Zeitpunkt hatte ich selber geglaubt, dass Huawei praktisch der einzige Anbieter von 5G-Routern ist. Eine [Kontroverse](https://www.heise.de/newsticker/meldung/5G-Kanzlerin-interveniert-fuer-Huawei-4555391.html) um den Entscheid der Deutschen Bundeskanzlerin Angela Merkel, Huawei als Anbieter nicht auszuschliessen, hat aber gezeigt, dass Sony-Eriksson auch als möglicher Anbieter in Frage käme. Ob für Sunrise oder für die deutsche Regierung von den Chinesen ein paar Belohnungen entlang der entstehenden Seidenstrasse platziert sind, bleibt uns allen bis zum aktuellen Zeitpunkt verborgen. 
+
+In einem zweiten Schwerpunkt der Diskussion ging es um die Frage der Bezugsberechtigung von Daten, welche das BLW für die Direktzahlungen erhebt. Es gab auch Erklärungsbedarf bezüglich eines allfälligen Preises der Daten. Jean-Marc Chappuis vom BLW konnte hier klarstellen, dass keine Daten verkauft werden. Die verrechneten Beträge würden einzig zur Abgeltung der Software und der Schnittstellen verwendet.
+
+
+## Blockchain
+Als Abschluss der Tagung hat Fabian Wahl über den [Blockchain Hackathon](https://hackathon.trustsquare.ch) berichtet. Die Leute, welche bis zum Schluss der Tagung geblieben sind, wurden mit einem sehr spannenden Beitrag belohnt. Mit grossem Engagement und einer guten Portion an Motivation wurde das Publikum in die komplexe Materie der Blockchain-Technologie eingeführt. Als zweiter Schwerpunkt enthielt der Vortrag von Fabian Wahl den Hackathon zum Thema Blockchain. Sein Team hat im Bereich Einsatz von Blockchain im FoodAgri Bereich gleich mehrere Preise gewonnen. 
+
+
+## Zusammenfassung
+Die Jahrestagung gab eine guten Überblick über wo die einzelnen Organisationen im Bezug auf Vernetzung der Daten stehen. Aktuell werden in allen Organisationen sehr grosse Anstrengungen unternommen die internen Daten zu vernetzen damit ein optimaler Nutzen aus den gesammelten Daten gewonnen werden kann. Eine stärkere Integration von Daten zwischen Organisationen, welche eine transparente Nutzung aller Daten über Organisationen hinweg möglich machen würde, ist ein für die Landwirtschaft wichtiges Zukunftsprojekt. Dieses wartet aber noch nicht an der nächsten Ecke und es bleibt noch viel Arbeit zu tun bis ein solches Datenintegrationsprojekt realisiert werden kann. Die Charta Digitalisierung ist eine spannende Plattform für solche Projekte. Es bleibt also spannend und deshalb gilt es sicher dabei zu bleiben und die zukünftigen Entwicklungen aufmerksam zu verfolgen.   
+
+
