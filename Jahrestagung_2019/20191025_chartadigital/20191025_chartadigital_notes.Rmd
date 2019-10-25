@@ -1,0 +1,16 @@
+---
+title: "End Of Meeting Notes For Charta Digitalisierung"
+output: html_notebook
+---
+
+<!-- ----------------------------------------------- --
+  -- TODO: * Mention decision of Merkel wrt Huawei   --
+  --                                                 --
+  -- ----------------------------------------------- -->
+
+## Blockchain
+Als Abschluss der Tagung hat Fabian Wahl über den Blockchain Hackathon berichtet. Die Leute, welche bis zum Schluss der Tagung geblieben sind, wurden mit einem sehr spannenden Beitrag belohnt. Mit grossem Engagement und einer guten Portion an Motivation wurde das Publikum in die komplexe Materie der Blockchain-Technologie eingeführt. Als zweiter Schwerpunkt enthielt der Vortrag von Fabian Wahl den Hackathon zum Thema Blockchain. Sein Team hat im Bereich Einsatz von Blockchain im FoodAgri Bereich gleich mehrere Preise gewonnen. 
+
+
+## Zusammenfassung
+Die Jahrestagung gab eine guten Überblick über wo die einzelnen Organisationen im Bezug auf Vernetzung der Daten stehen. Aktuell werden in allen Organisationen sehr grosse Anstrengungen unternommen die internen Daten zu vernetzen damit ein optimaler Nutzen aus den gesammelten Daten gewonnen werden kann. Eine stärkere Integration von Daten zwischen Organisationen, welche eine transparente Nutzung aller Daten über Organisationen hinweg möglich machen würde, ist ein für die Landwirtschaft wichtiges Zukunftsprojekt. Dieses wartet aber noch nicht an der nächsten Ecke und es bleibt noch viel Arbeit zu tun bis ein solches Datenintegrationsprojekt realisiert werden kann. Die Charta Digitalisierung ist eine spannende Plattform für solche Projekte. Es bleibt also spannend und deshalb gilt es sicher dabei zu bleiben und die zukünftigen Entwicklungen aufmerksam zu verfolgen.  
